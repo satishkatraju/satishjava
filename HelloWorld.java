@@ -7,6 +7,7 @@ class HelloWorld {
         // checkout -b UserStory03
         
        System.out.println("Hello");
+        System.out.println("Sample");
         //hii
 
     }
